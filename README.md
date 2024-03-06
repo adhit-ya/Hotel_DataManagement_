@@ -13,22 +13,32 @@ These screenshots offer a glimpse into the capabilities of our project. However,
 
 Remember, a picture is worth a thousand words, but a well-written code is priceless. 🌟
 
-<img width="959" alt="Screenshot 2024-03-07 001138" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/4b83c301-25a2-425e-85cf-57a6f5520bdf">
 
-<img width="960" alt="Screenshot 2024-03-07 001128" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/2ea55458-f07d-4832-92a8-981afe1f3824">
+<img width="959" alt="Screenshot 2024-03-07 001138" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/d7045ed5-1a24-4cc9-a6e0-7dd9595236de">
 
-<img width="957" alt="Screenshot 2024-03-07 000959" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/a8b947e3-0bf5-4d20-80c7-348de66cd5e6">
 
-<img width="960" alt="Screenshot 2024-03-07 000850" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/6e6e44ad-2e67-4e26-bdfd-b5655576534d">
+<img width="960" alt="Screenshot 2024-03-07 001128" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/1d61d2e4-35cc-466b-a578-325c8164827f">
 
-<img width="960" alt="Screenshot 2024-03-07 000756" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/16719eba-5256-4718-9dd1-8ac4a9e328de">
 
-<img width="960" alt="Screenshot 2024-03-07 000745" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/c701abd9-1bd8-4e03-8a6c-20a4cdc97060">
+<img width="957" alt="Screenshot 2024-03-07 000959" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/28742644-4d5c-4634-aa49-b59f8d1de3f4">
 
-<img width="960" alt="Screenshot 2024-03-07 000700" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/3aa548e6-0a6b-4ff4-83d7-0f681d100994">
 
-<img width="960" alt="Screenshot 2024-03-07 000644" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/6eddabc5-f306-4af8-9f2e-420eef57e340">
+<img width="960" alt="Screenshot 2024-03-07 000850" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/eccebdd4-6ad8-43b8-9691-b3c1a6906073">
 
-<img width="960" alt="Screenshot 2024-03-07 000520" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/d448d621-22e9-47de-95d9-3aa5ffd05158">
 
-<img width="960" alt="Screenshot 2024-03-07 000511" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/e074728e-42f2-4fa3-ab12-d522f1569aae">
+<img width="960" alt="Screenshot 2024-03-07 000756" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/308333b9-f121-43a1-958b-80d4c4e85bb3">
+
+
+<img width="960" alt="Screenshot 2024-03-07 000745" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/943125a2-dd1b-499b-a317-1cc0f0c1ea26">
+
+
+<img width="960" alt="Screenshot 2024-03-07 000700" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/a6c363bc-3601-4132-8c58-ddd4f0fa1e93">
+
+
+<img width="960" alt="Screenshot 2024-03-07 000644" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/ed4347e8-21ee-4ae8-9fff-ff136bb6331e">
+
+
+<img width="960" alt="Screenshot 2024-03-07 000520" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/eaea710e-df97-4972-a881-9ef39ee0e0f3">
+
+
+<img width="960" alt="Screenshot 2024-03-07 000511" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/5a278929-ece2-4da3-8e31-393056e13220">
