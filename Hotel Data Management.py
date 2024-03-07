@@ -156,8 +156,8 @@ def search():
         supermarket_billing.heading('aad',text='AADHAR')
         supermarket_billing.heading('ph',text='PHONE NO.')
         supermarket_billing.heading('dat',text='DATE')
-        supermarket_billing.heading('romm',text='ROOM NO.')
-        supermarket_billing.heading('roomty',text='ROOM TYPE')
+        supermarket_billing.heading('romm',text='ROOM TYPE')
+        supermarket_billing.heading('roomty',text='ROOM NO.')
         supermarket_billing['show'] = 'headings'
         supermarket_billing.pack(fill=BOTH,expand=1)
 
