@@ -221,7 +221,7 @@ def check_out():
         bill_window .title('Check Out')
         scrollx = ttk.Scrollbar(bill_window ,orient=HORIZONTAL)
         scrolly = ttk.Scrollbar(bill_window ,orient=VERTICAL)
-        supermarket_billing = ttk.Treeview(bill_window ,columns=('name','aad','romm','roomty','price'),xscrollcommand=scrollx.set,yscrollcommand=scrolly.set)
+        supermarket_billing = ttk.Treeview(bill_window ,columns=('name','aad','roomty','romm','price'),xscrollcommand=scrollx.set,yscrollcommand=scrolly.set)
         scrollx.pack(side=BOTTOM,fill=X)
         scrolly.pack(side=RIGHT,fill=Y)
 
