@@ -32,7 +32,8 @@ Remember, a picture is worth a thousand words, but a well-written code is pricel
 
 <img width="957" alt="Screenshot 2024-03-07 000959" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/028c3186-a411-4c9b-9328-b270f9d04e61">
 
-<img width="960" alt="Screenshot 2024-03-07 001128" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/92e29125-7669-4fc0-94d4-0635310dac4d">
+<img width="960" alt="Screenshot 2024-03-07 150049" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/b48257f9-b115-495e-84df-4afe53343cc2">
+
 
 
 <img width="959" alt="Screenshot 2024-03-07 001138" src="https://github.com/adhit-ya/Hotel_DataManagement_/assets/162490155/f0f884f5-9f77-4f32-b6bc-a72b143bb887">
